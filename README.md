@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Luc Constantin!
-# Welcome to my GitHub portfolio!
+# Welcome to my GitHub portfolio! 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" height="auto"> I'm Luc Constantin! 
+
 
 ## 🚀 About Me
 ## I embarked on my development journey at the age of 42 in 2019. Starting this path later in life has given me a unique perspective and a deep appreciation for the art and science of coding. I bring a wealth of life experience to my projects, and I'm constantly looking for new challenges that push the boundaries of my knowledge and skills.
